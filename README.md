@@ -1,3 +1,3 @@
 TinDoggo
 
-Tinder for Dogs
+Tinder for Dogs but better
