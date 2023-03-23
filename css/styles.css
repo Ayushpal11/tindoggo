@@ -122,14 +122,14 @@ p {
     background-color: #fff;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 100px 15% 20%;
+    padding: 100px 15% 7%;
   }
   .spanSpace {
     padding-left: 25px;
     padding-right: 25px;
   }
-  .social {
-    padding-bottom: 5%;
+  .social{
+    margin: 20px 10px;
   }
   
   @media (max-width: 1028px) {
